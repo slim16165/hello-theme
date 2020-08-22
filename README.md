@@ -95,6 +95,9 @@ Source: https://stocksnap.io/photo/4B83RD7BV9
 
 ## Changelog ##
 
+### Gian - 2020-08-22 ###
+* Added category specific template
+
 ### 2.3.0 - 2020-04-19 ###
 * Tweak: Removed caption centering by default to allow alignment using Elementor (Props [@cirkut](https://github.com/cirkut))
 * Tweak: Removed `text-align` property from table elements to avoid alignment issue in RTL websites (Props [@ramiy](https://github.com/ramiy))
